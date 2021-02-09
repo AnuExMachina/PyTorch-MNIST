@@ -5,8 +5,9 @@
 MNIST is a dataset containing 70,000 handwritten digits splited into training data (60,000) and test data(10,000). All images were scaled to 28x28px and are grayscale with intensity in range of 0-255.
 
 ## Screenshots
-![digits](./img/digits.jpg)
+![digits](./img/digits.JPG)
 *Sample images from MNIST dataset*
+
 ![5](./img/5.jpg)
 *Sample image tensor from MNIST dataset*
 ## Technologies
